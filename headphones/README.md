@@ -1,6 +1,6 @@
 Smile School Website
 
-![Headphones Hero](./images/headphones_hero_1.png)
+![Headphones Hero](./images/headphones_hero_1.jpg)
 
 ![Headphones Logo](./images/logo_headphones.png)
 
