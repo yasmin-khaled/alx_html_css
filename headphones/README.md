@@ -1,5 +1,7 @@
 Smile School Website
 
+![Headphones Hero](./images/headphones_hero_1.png)
+
 ![Headphones Logo](./images/logo_headphones.png)
 
 Features
